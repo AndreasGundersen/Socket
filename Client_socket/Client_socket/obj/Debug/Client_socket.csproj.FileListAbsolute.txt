@@ -1,0 +1,10 @@
+C:\_Work\Socket\Client_socket\Client_socket\bin\Debug\Client_socket.exe.config
+C:\_Work\Socket\Client_socket\Client_socket\bin\Debug\Client_socket.exe
+C:\_Work\Socket\Client_socket\Client_socket\bin\Debug\Client_socket.pdb
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.csprojResolveAssemblyReference.cache
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.Form1.resources
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.Properties.Resources.resources
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.csproj.GenerateResource.Cache
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.csproj.CoreCompileInputs.cache
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.exe
+C:\_Work\Socket\Client_socket\Client_socket\obj\Debug\Client_socket.pdb

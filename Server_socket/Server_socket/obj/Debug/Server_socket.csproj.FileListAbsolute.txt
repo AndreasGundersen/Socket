@@ -1,0 +1,7 @@
+C:\_Work\Socket\Server_socket\Server_socket\bin\Debug\Server_socket.exe.config
+C:\_Work\Socket\Server_socket\Server_socket\bin\Debug\Server_socket.exe
+C:\_Work\Socket\Server_socket\Server_socket\bin\Debug\Server_socket.pdb
+C:\_Work\Socket\Server_socket\Server_socket\obj\Debug\Server_socket.csprojResolveAssemblyReference.cache
+C:\_Work\Socket\Server_socket\Server_socket\obj\Debug\Server_socket.csproj.CoreCompileInputs.cache
+C:\_Work\Socket\Server_socket\Server_socket\obj\Debug\Server_socket.exe
+C:\_Work\Socket\Server_socket\Server_socket\obj\Debug\Server_socket.pdb
